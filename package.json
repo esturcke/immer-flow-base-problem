@@ -6,6 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "flow-bin": "^0.123.0",
-    "immer": "^6.0.5"
+    "immer": "^9.0.6"
   }
 }
